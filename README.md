@@ -11,22 +11,22 @@
 **订阅链接：**
 
 ```
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/Use4Free/v2ray/master/v2ray
 ```
 
 ```
-https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+https://raw.githubusercontent.com/Use4Free/v2ray/master/clash.yaml
 ```
 
 
 **镜像：**
 
 ```
-https://gitlab.com/mfuu/v2ray/-/raw/master/v2ray
+https://gitlab.com/Use4Free/v2ray/-/raw/master/v2ray
 ```
 
 ```
-https://gitlab.com/mfuu/v2ray/-/raw/master/clash.yaml
+https://gitlab.com/Use4Free/v2ray/-/raw/master/clash.yaml
 ```
 
 
